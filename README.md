@@ -3,7 +3,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Laura%20Valentina%20V%C3%A1squez&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Full%20Stack%20in%20Progress&descAlignY=58&descSize=14)
 
-<img src="https://avatars.githubusercontent.com/lauravasquez1107-web?v=4" width="120px" alt="Laura Valentina"/>
+<img src="ChatGPT Image 15 abr 2026, 03_51_12 p.m..png" width="120px" alt="Laura Valentina"/>
 
 ### ✨ Hola, soy Laura Valentina Vásquez ✨
 
