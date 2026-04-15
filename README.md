@@ -5,9 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4FD8,100:1E3A8A&height=200&section=header&text=Laura%20Valentina%20Vásquez&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Developer%20%7C%20Frontend%20Lover%20%7C%20Full%20Stack%20in%20Progress&descAlignY=55&descSize=16" />
 </p>
 
-<img src="porfile.png" width="120" alt="120"/>
-
-### ✨ Hola, soy Laura Valentina Vásquez ✨
+<img src="porfile.png" width="300" alt="300"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-valentina-vasquez-fajardo-64aa923a8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.vasquez1107@gmail.com)
