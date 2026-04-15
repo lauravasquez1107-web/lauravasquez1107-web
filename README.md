@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4FD8,100:1E3A8A&height=200&section=header&text=Laura%20Valentina%20Vásquez&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Developer%20%7C%20Frontend%20Lover%20%7C%20Full%20Stack%20in%20Progress&descAlignY=55&descSize=16" />
 </p>
 
-<img src="foto pixar.png" width="120" alt="120"/>
+<img src="porfile.png" width="120" alt="120"/>
 
 ### ✨ Hola, soy Laura Valentina Vásquez ✨
 
