@@ -1,9 +1,11 @@
 <!-- Banner animado con capsule-render -->
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Laura%20Valentina%20V%C3%A1squez&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Full%20Stack%20in%20Progress&descAlignY=58&descSize=14)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4FD8,100:1E3A8A&height=220&section=header&text=Laura%20Valentina%20Vásquez&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Del%20diseño%20a%20la%20lógica:%20creando%20experiencias%20completas&descAlignY=60&descSize=16" />
+</p>
 
-<img src="foto pixar.png" width="200" alt="200"/>
+<img src="foto pixar.png" width="120" alt="120"/>
 
 ### ✨ Hola, soy Laura Valentina Vásquez ✨
 
