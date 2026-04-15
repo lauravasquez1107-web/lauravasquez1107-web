@@ -3,7 +3,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Laura%20Valentina%20V%C3%A1squez&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Full%20Stack%20in%20Progress&descAlignY=58&descSize=14)
 
-<img src="LEMA.png" width="1000" alt="Laura Valentina"/>
+<img src="LEMA.png" width="600" alt="Laura Valentina"/>
 
 ### ✨ Hola, soy Laura Valentina Vásquez ✨
 
